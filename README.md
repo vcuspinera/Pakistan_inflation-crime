@@ -1,14 +1,14 @@
 # Inflation and Crime in Pakistan
-In this repo I am making and analysis related with Omdena's project about inflation on food prices and crime rate of Pakistan organiazed by Pakistan-Chapter.
+In this repo I am making and analysis related with Omdena's project about inflation on food prices and crime rate of Pakistan organized by Pakistan-Chapter.
 
 ## Omdena info
 To see the original project description [click here](https://omdena.com/chapter-challenges/building-an-interactive-dashboard-to-report-and-analyse-the-relationship-between-recent-inflation-in-food-prices-and-the-increased-crime-rate-within-pakistan/).
 
 ### Original project's name
 
-**Building an interactive dashboard to report and analyse the relationship between recent inflation in food prices and the increased crime rate within Pakistan**
+Name: **Building an interactive dashboard to report and analyse the relationship between recent inflation in food prices and the increased crime rate within Pakistan**
 
-This is a **Local Project** lead by [**Lahore, Pakistan Chapter**](https://omdena.com/local-chapters/lahore-pakistan-chapter/).
+This is challenge is lead by [**Lahore, Pakistan Chapter**](https://omdena.com/local-chapters/lahore-pakistan-chapter/).
 
 ### Project background.
 
@@ -57,8 +57,26 @@ In this section you would find general info about what I have gather to work on 
 
 General information taht would be useful for the project:
 
+#### General information
 - General info of Omdena's project by Pakistan-Chapter: [Building an interactive dashboard to report and analyse the relationship between recent inflation in food prices and the increased crime rate within Pakistan](https://omdena.com/chapter-challenges/building-an-interactive-dashboard-to-report-and-analyse-the-relationship-between-recent-inflation-in-food-prices-and-the-increased-crime-rate-within-pakistan/)
-- Open Data Pakistan: [Pakistan Food Prices](https://opendata.com.pk/dataset/pakistan-food-prices)
+
+#### Data sources
+
+Food prices:
+- National Center in Big Data and Cloud Computing (NCBC). (2020). [Pakistan Food Prices](https://opendata.com.pk/dataset/pakistan-food-prices). Open Data Pakistan.
+
+Economic data:
+- The Wolrd Bank. (2022). [Macroeconomic variables and development indicators of Pakistan].(https://data.worldbank.org/country/pakistan).
+- Trading Economics. (2022). Pakistan Consumer Price Index (CPI).
+- Pakistan Bureau of Statistics. (2022). CPI Monthly Price Indices.
+
+Crime rates:
+- Faisal Qureshi. (2021). [Pakistan Crimes dataset (2012-2017)](https://www.kaggle.com/datasets/mfaisalqureshi/pakistan-crimes-by-type). Kaggle.
+- Crime Investigation and Prevention Lab (CIPL). (2022). [Pakistan Food Prices](https://opendata.com.pk/dataset/pakistan-food-prices). Open Data Pakistan.
+
+👉 *Note: the CIPL has 5 dabatases, we should look into it and find which would be the best to use for the project*
+
+#### Articles and papers
 - [EDA for Time Series](https://eriikcasstro.medium.com/eda-for-time-series-b2ea7b36c65a) 
 - [EDA for Time Series Data using PyCaret](https://developers.refinitiv.com/en/article-catalog/article/ai-data-engineering-eda-for-time-series-data-using-pycaret)
 - [Time-Series-EDA-and-Forecast](https://github.com/disojn/Time-Series-EDA-and-Forecast/blob/master/Time%20Series-Exploratory%20Data%20Analysis%20%26%20Forecast.ipynb)
