@@ -8,7 +8,12 @@ To see the original project description [click here](https://omdena.com/chapter-
 
 Name: **Building an interactive dashboard to report and analyse the relationship between recent inflation in food prices and the increased crime rate within Pakistan**
 
-This is challenge is lead by [**Lahore, Pakistan Chapter**](https://omdena.com/local-chapters/lahore-pakistan-chapter/).
+This is challenge is lead by [Lahore-Pakistan Chapter](https://omdena.com/local-chapters/lahore-pakistan-chapter/).
+
+Project respositories:  
+- [Omdena description of the project](https://omdena.com/chapter-challenges/building-an-interactive-dashboard-to-report-and-analyse-the-relationship-between-recent-inflation-in-food-prices-and-the-increased-crime-rate-within-pakistan/)
+- [Google drive `Creating dashboard to find inflation trends`](https://drive.google.com/drive/folders/1qhmno2xSpmtjyORLF6VVkGb0DRqJnWd5)
+- [GitHub repo `lahore-pakistan-chapter-food-prices`](https://github.com/OmdenaAI/lahore-pakistan-chapter-food-prices)
 
 ### Project background.
 
@@ -66,15 +71,16 @@ Food prices:
 - National Center in Big Data and Cloud Computing (NCBC). (2020). [Pakistan Food Prices](https://opendata.com.pk/dataset/pakistan-food-prices). Open Data Pakistan.
 
 Economic data:
+- Pakistan Bureau of Statistics. (2022). [CPI, Monthly Price Indices](https://www.pbs.gov.pk/cpi).
 - The Wolrd Bank. (2022). [Macroeconomic variables and development indicators of Pakistan].(https://data.worldbank.org/country/pakistan).
-- Trading Economics. (2022). Pakistan Consumer Price Index (CPI).
-- Pakistan Bureau of Statistics. (2022). CPI Monthly Price Indices.
+- Trading Economics. (2022). [Pakistan Consumer Price Index (CPI)](https://tradingeconomics.com/pakistan/consumer-price-index-cpi).
 
-Crime rates:
+Crime data:
+- University of Maryland. (2021). [GTD compiled by University of Maryland](https://opendata.com.pk/dataset/pakistan-terror-attacks). Open Data Pakistan.
+- Pakistan Bureau of Statistics. (2022). [Crimes reported by Type](https://opendata.com.pk/dataset/crimes-reported-by-type). Open Data Pakistan.
 - Faisal Qureshi. (2021). [Pakistan Crimes dataset (2012-2017)](https://www.kaggle.com/datasets/mfaisalqureshi/pakistan-crimes-by-type). Kaggle.
-- Crime Investigation and Prevention Lab (CIPL). (2022). [Pakistan Food Prices](https://opendata.com.pk/dataset/pakistan-food-prices). Open Data Pakistan.
-
-👉 *Note: the CIPL has 5 dabatases, we should look into it and find which would be the best to use for the project*
+- Crime Investigation and Prevention Lab (CIPL). (2022). [Crimes databases](https://opendata.com.pk/organization/cipl). Open Data Pakistan.
+> *Note: The CIPL has 5 dabatases, we should look into it and find which would be the best to use for the project.*
 
 #### Articles and papers
 - [EDA for Time Series](https://eriikcasstro.medium.com/eda-for-time-series-b2ea7b36c65a) 
